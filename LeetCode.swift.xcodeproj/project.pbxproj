@@ -20,6 +20,7 @@
 		20171CF32141659F00B23D57 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF22141659F00B23D57 /* 35. Search Insert Position.swift */; };
 		20171CF52141668900B23D57 /* 167. Two Sum II - Input array is sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF42141668900B23D57 /* 167. Two Sum II - Input array is sorted.swift */; };
 		20171CF72141673E00B23D57 /* 125. Valid Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF62141673E00B23D57 /* 125. Valid Palindrome.swift */; };
+		20171CF9214167E600B23D57 /* 189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF8214167E600B23D57 /* 189. Rotate Array.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -88,6 +89,7 @@
 		20171CF22141659F00B23D57 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		20171CF42141668900B23D57 /* 167. Two Sum II - Input array is sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input array is sorted.swift"; sourceTree = "<group>"; };
 		20171CF62141673E00B23D57 /* 125. Valid Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. Valid Palindrome.swift"; sourceTree = "<group>"; };
+		20171CF8214167E600B23D57 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -232,6 +234,7 @@
 				20D89B6621411D1F003EE3F0 /* 88. Merge Sorted Array.swift */,
 				20D89B6821411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift */,
 				20D89B6A21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift */,
+				20171CF8214167E600B23D57 /* 189. Rotate Array.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -460,6 +463,7 @@
 				20D89B8D21412912003EE3F0 /* TreeNode.swift in Sources */,
 				20171CE4214160AB00B23D57 /* 113. Path Sum II.swift in Sources */,
 				20D89BA821412FAB003EE3F0 /* 92. Reverse Linked List II.swift in Sources */,
+				20171CF9214167E600B23D57 /* 189. Rotate Array.swift in Sources */,
 				20D89BAD2141320E003EE3F0 /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				20171CF02141637C00B23D57 /* 80. Remove Duplicates from Sorted Array II.swift in Sources */,
 				20D89BA421412F36003EE3F0 /* 206. Reverse Linked List.swift in Sources */,
