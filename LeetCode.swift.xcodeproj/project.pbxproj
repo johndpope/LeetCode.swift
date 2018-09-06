@@ -29,6 +29,7 @@
 		20D89B7F2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B7E2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift */; };
 		20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B80214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift */; };
 		20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B83214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift */; };
+		20D89B8621412744003EE3F0 /* 204. Count Primes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B8521412744003EE3F0 /* 204. Count Primes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		20D89B7E2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "438. Find All Anagrams in a String.swift"; sourceTree = "<group>"; };
 		20D89B80214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "451. Sort Characters By Frequency.swift"; sourceTree = "<group>"; };
 		20D89B83214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "150. Evaluate Reverse Polish Notation.swift"; sourceTree = "<group>"; };
+		20D89B8521412744003EE3F0 /* 204. Count Primes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. Count Primes.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 			isa = PBXGroup;
 			children = (
 				20D89B762141227B003EE3F0 /* 169. Majority Element.swift */,
+				20D89B8521412744003EE3F0 /* 204. Count Primes.swift */,
 				20D89B7C21412473003EE3F0 /* 290. Word Pattern.swift */,
 				20D89B7A214123D0003EE3F0 /* 349. Intersection of Two Arrays.swift */,
 				20D89B7E2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift */,
@@ -299,6 +302,7 @@
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */,
+				20D89B8621412744003EE3F0 /* 204. Count Primes.swift in Sources */,
 				20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */,
 				20D89B6321411C4D003EE3F0 /* 16. 3Sum Closest.swift in Sources */,
