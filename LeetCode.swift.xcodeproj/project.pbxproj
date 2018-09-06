@@ -11,6 +11,7 @@
 		20171CE021415FDD00B23D57 /* 226. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */; };
 		20171CE22141604900B23D57 /* 112. Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CE12141604900B23D57 /* 112. Path Sum.swift */; };
 		20171CE4214160AB00B23D57 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CE3214160AB00B23D57 /* 113. Path Sum II.swift */; };
+		20171CE62141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CE52141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -70,6 +71,7 @@
 		20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "226. Invert Binary Tree.swift"; sourceTree = "<group>"; };
 		20171CE12141604900B23D57 /* 112. Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112. Path Sum.swift"; sourceTree = "<group>"; };
 		20171CE3214160AB00B23D57 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
+		20171CE52141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. Sum Root to Leaf Numbers.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -284,6 +286,7 @@
 				20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */,
 				20171CE12141604900B23D57 /* 112. Path Sum.swift */,
 				20171CE3214160AB00B23D57 /* 113. Path Sum II.swift */,
+				20171CE52141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift */,
 			);
 			path = Recursion;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				20D89BA421412F36003EE3F0 /* 206. Reverse Linked List.swift in Sources */,
 				20D89B88214127B8003EE3F0 /* 205. Isomorphic Strings.swift in Sources */,
 				20D89B9321412A55003EE3F0 /* 199. Binary Tree Right Side View.swift in Sources */,
+				20171CE62141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift in Sources */,
 				20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */,
 				20D89B6321411C4D003EE3F0 /* 16. 3Sum Closest.swift in Sources */,
 				20171CE22141604900B23D57 /* 112. Path Sum.swift in Sources */,
