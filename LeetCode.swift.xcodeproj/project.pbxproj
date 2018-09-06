@@ -39,6 +39,7 @@
 		20D89B9521412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B9421412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift */; };
 		20D89B9721412BDA003EE3F0 /* 107. Binary Tree Level Order Traversal II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B9621412BDA003EE3F0 /* 107. Binary Tree Level Order Traversal II.swift */; };
 		20D89B9921412C29003EE3F0 /* 103. Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B9821412C29003EE3F0 /* 103. Binary Tree Zigzag Level Order Traversal.swift */; };
+		20D89B9D21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B9C21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,7 @@
 		20D89B9421412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102. Binary Tree Level Order Traversal.swift"; sourceTree = "<group>"; };
 		20D89B9621412BDA003EE3F0 /* 107. Binary Tree Level Order Traversal II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "107. Binary Tree Level Order Traversal II.swift"; sourceTree = "<group>"; };
 		20D89B9821412C29003EE3F0 /* 103. Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
+		20D89B9C21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98. Validate Binary Search Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				20D89B7521412246003EE3F0 /* Hash Table */,
 				20D89B822141268B003EE3F0 /* Stack */,
 				20D89B8921412889003EE3F0 /* Tree */,
+				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
@@ -220,6 +223,14 @@
 				20D89B9221412A55003EE3F0 /* 199. Binary Tree Right Side View.swift */,
 			);
 			path = Tree;
+			sourceTree = "<group>";
+		};
+		20D89B9B21412CFB003EE3F0 /* Binary Search Tree */ = {
+			isa = PBXGroup;
+			children = (
+				20D89B9C21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift */,
+			);
+			path = "Binary Search Tree";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -340,6 +351,7 @@
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B8B214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
+				20D89B9D21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift in Sources */,
 				20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */,
 				20D89B8621412744003EE3F0 /* 204. Count Primes.swift in Sources */,
 				20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
