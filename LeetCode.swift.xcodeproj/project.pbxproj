@@ -23,6 +23,7 @@
 		20171CF9214167E600B23D57 /* 189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF8214167E600B23D57 /* 189. Rotate Array.swift */; };
 		20171CFC214168B400B23D57 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CFB214168B400B23D57 /* 209. Minimum Size Subarray Sum.swift */; };
 		20171CFE2141696500B23D57 /* 219. Contains Duplicate II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CFD2141696500B23D57 /* 219. Contains Duplicate II.swift */; };
+		20171D00214169CB00B23D57 /* 220. Contains Duplicate III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CFF214169CB00B23D57 /* 220. Contains Duplicate III.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -94,6 +95,7 @@
 		20171CF8214167E600B23D57 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		20171CFB214168B400B23D57 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		20171CFD2141696500B23D57 /* 219. Contains Duplicate II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "219. Contains Duplicate II.swift"; sourceTree = "<group>"; };
+		20171CFF214169CB00B23D57 /* 220. Contains Duplicate III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "220. Contains Duplicate III.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -271,6 +273,7 @@
 				20D89B8521412744003EE3F0 /* 204. Count Primes.swift */,
 				20D89B87214127B8003EE3F0 /* 205. Isomorphic Strings.swift */,
 				20171CFD2141696500B23D57 /* 219. Contains Duplicate II.swift */,
+				20171CFF214169CB00B23D57 /* 220. Contains Duplicate III.swift */,
 				20D89B7C21412473003EE3F0 /* 290. Word Pattern.swift */,
 				20D89B7A214123D0003EE3F0 /* 349. Intersection of Two Arrays.swift */,
 				20D89B7E2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift */,
@@ -452,6 +455,7 @@
 				20D89B7D21412473003EE3F0 /* 290. Word Pattern.swift in Sources */,
 				20D89B91214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift in Sources */,
 				20171CEA214161F400B23D57 /* 404. Sum of Left Leaves.swift in Sources */,
+				20171D00214169CB00B23D57 /* 220. Contains Duplicate III.swift in Sources */,
 				20D89B6721411D1F003EE3F0 /* 88. Merge Sorted Array.swift in Sources */,
 				20D89B9721412BDA003EE3F0 /* 107. Binary Tree Level Order Traversal II.swift in Sources */,
 				20D89BA621412F6A003EE3F0 /* ListNode.swift in Sources */,
