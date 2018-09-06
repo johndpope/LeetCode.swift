@@ -28,6 +28,7 @@
 		20171D0421416B3E00B23D57 /* 350. Intersection of Two Arrays II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0321416B3E00B23D57 /* 350. Intersection of Two Arrays II.swift */; };
 		20171D0621416BC500B23D57 /* 387. First Unique Character in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0521416BC500B23D57 /* 387. First Unique Character in a String.swift */; };
 		20171D0821416C6600B23D57 /* 242. Valid Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0721416C6600B23D57 /* 242. Valid Anagram.swift */; };
+		20171D0A21416DBB00B23D57 /* 682. Baseball Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0921416DBB00B23D57 /* 682. Baseball Game.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -104,6 +105,7 @@
 		20171D0321416B3E00B23D57 /* 350. Intersection of Two Arrays II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "350. Intersection of Two Arrays II.swift"; sourceTree = "<group>"; };
 		20171D0521416BC500B23D57 /* 387. First Unique Character in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. First Unique Character in a String.swift"; sourceTree = "<group>"; };
 		20171D0721416C6600B23D57 /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = "<group>"; };
+		20171D0921416DBB00B23D57 /* 682. Baseball Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "682. Baseball Game.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -298,6 +300,7 @@
 			isa = PBXGroup;
 			children = (
 				20D89B83214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift */,
+				20171D0921416DBB00B23D57 /* 682. Baseball Game.swift */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -505,6 +508,7 @@
 				20171CE82141619F00B23D57 /* 257. Binary Tree Paths.swift in Sources */,
 				20171CE62141613800B23D57 /* 129. Sum Root to Leaf Numbers.swift in Sources */,
 				20171CEE2141630900B23D57 /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
+				20171D0A21416DBB00B23D57 /* 682. Baseball Game.swift in Sources */,
 				20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */,
 				20171D0221416ABE00B23D57 /* 344. Reverse String.swift in Sources */,
 				20171CFC214168B400B23D57 /* 209. Minimum Size Subarray Sum.swift in Sources */,
