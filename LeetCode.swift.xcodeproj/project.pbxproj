@@ -13,6 +13,7 @@
 		20D89B3A21410AEA003EE3F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3921410AEA003EE3F0 /* Assets.xcassets */; };
 		20D89B3D21410AEA003EE3F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3B21410AEA003EE3F0 /* LaunchScreen.storyboard */; };
 		20D89B4821410AEA003EE3F0 /* LeetCode_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B4721410AEA003EE3F0 /* LeetCode_swiftTests.swift */; };
+		20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6021411BDC003EE3F0 /* 15. 3Sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		20D89B4321410AEA003EE3F0 /* LeetCode.swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCode.swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B4721410AEA003EE3F0 /* LeetCode_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode_swiftTests.swift; sourceTree = "<group>"; };
 		20D89B4921410AEA003EE3F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20D89B6021411BDC003EE3F0 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		20D89B3121410AE8003EE3F0 /* LeetCode.swift */ = {
 			isa = PBXGroup;
 			children = (
+				20D89B5F21411BC4003EE3F0 /* Array */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
@@ -102,6 +105,14 @@
 				20D89B3B21410AEA003EE3F0 /* LaunchScreen.storyboard */,
 			);
 			path = "New Group";
+			sourceTree = "<group>";
+		};
+		20D89B5F21411BC4003EE3F0 /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				20D89B6021411BDC003EE3F0 /* 15. 3Sum.swift */,
+			);
+			path = Array;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +218,7 @@
 			files = (
 				20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */,
 				20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */,
+				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
