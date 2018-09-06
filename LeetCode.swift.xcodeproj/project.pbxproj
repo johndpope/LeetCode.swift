@@ -44,6 +44,7 @@
 		20D89BA421412F36003EE3F0 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BA321412F36003EE3F0 /* 206. Reverse Linked List.swift */; };
 		20D89BA621412F6A003EE3F0 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BA521412F6A003EE3F0 /* ListNode.swift */; };
 		20D89BA821412FAB003EE3F0 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BA721412FAB003EE3F0 /* 92. Reverse Linked List II.swift */; };
+		20D89BAB214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +99,7 @@
 		20D89BA321412F36003EE3F0 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		20D89BA521412F6A003EE3F0 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		20D89BA721412FAB003EE3F0 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
+		20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				20D89BA221412F0B003EE3F0 /* Linked List */,
 				20D89B8921412889003EE3F0 /* Tree */,
 				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
+				20D89BA9214130F6003EE3F0 /* Recursion */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
@@ -251,6 +254,14 @@
 				20D89BA721412FAB003EE3F0 /* 92. Reverse Linked List II.swift */,
 			);
 			path = "Linked List";
+			sourceTree = "<group>";
+		};
+		20D89BA9214130F6003EE3F0 /* Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */,
+			);
+			path = Recursion;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -374,6 +385,7 @@
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B8B214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 				20D89B9D21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift in Sources */,
+				20D89BAB214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */,
 				20D89B8621412744003EE3F0 /* 204. Count Primes.swift in Sources */,
 				20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
