@@ -19,6 +19,7 @@
 		20D89B6721411D1F003EE3F0 /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6621411D1F003EE3F0 /* 88. Merge Sorted Array.swift */; };
 		20D89B6921411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6821411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		20D89B6B21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6A21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift */; };
+		20D89B6E21411F74003EE3F0 /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6D21411F74003EE3F0 /* 14. Longest Common Prefix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		20D89B6621411D1F003EE3F0 /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
 		20D89B6821411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		20D89B6A21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
+		20D89B6D21411F74003EE3F0 /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				20D89B5F21411BC4003EE3F0 /* Array */,
+				20D89B6C21411F43003EE3F0 /* String */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
@@ -128,6 +131,14 @@
 				20D89B6A21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift */,
 			);
 			path = Array;
+			sourceTree = "<group>";
+		};
+		20D89B6C21411F43003EE3F0 /* String */ = {
+			isa = PBXGroup;
+			children = (
+				20D89B6D21411F74003EE3F0 /* 14. Longest Common Prefix.swift */,
+			);
+			path = String;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,6 +247,7 @@
 				20D89B6521411CCE003EE3F0 /* 66. Plus One.swift in Sources */,
 				20D89B6921411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				20D89B6B21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
+				20D89B6E21411F74003EE3F0 /* 14. Longest Common Prefix.swift in Sources */,
 				20D89B6721411D1F003EE3F0 /* 88. Merge Sorted Array.swift in Sources */,
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B6321411C4D003EE3F0 /* 16. 3Sum Closest.swift in Sources */,
