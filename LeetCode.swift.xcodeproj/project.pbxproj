@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		20171CDE21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CDD21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift */; };
+		20171CE021415FDD00B23D57 /* 226. Invert Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -64,6 +65,7 @@
 
 /* Begin PBXFileReference section */
 		20171CDD21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "222. Count Complete Tree Nodes.swift"; sourceTree = "<group>"; };
+		20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "226. Invert Binary Tree.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -275,6 +277,7 @@
 				20D89BB02141327E003EE3F0 /* 101. Symmetric Tree.swift */,
 				20D89BB2214132C0003EE3F0 /* 110. Balanced Binary Tree.swift */,
 				20171CDD21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift */,
+				20171CDF21415FDD00B23D57 /* 226. Invert Binary Tree.swift */,
 			);
 			path = Recursion;
 			sourceTree = "<group>";
@@ -401,6 +404,7 @@
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B8B214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
+				20171CE021415FDD00B23D57 /* 226. Invert Binary Tree.swift in Sources */,
 				20D89B9D21412D52003EE3F0 /* 98. Validate Binary Search Tree.swift in Sources */,
 				20D89BAB214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				20171CDE21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift in Sources */,
