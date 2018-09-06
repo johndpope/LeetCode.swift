@@ -23,6 +23,7 @@
 		20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B6F21411FC7003EE3F0 /* 20. Valid Parentheses.swift */; };
 		20D89B722141201E003EE3F0 /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B712141201E003EE3F0 /* 28. Implement strStr().swift */; };
 		20D89B74214120A7003EE3F0 /* 345. Reverse Vowels of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B73214120A7003EE3F0 /* 345. Reverse Vowels of a String.swift */; };
+		20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B762141227B003EE3F0 /* 169. Majority Element.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		20D89B6F21411FC7003EE3F0 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		20D89B712141201E003EE3F0 /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
 		20D89B73214120A7003EE3F0 /* 345. Reverse Vowels of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "345. Reverse Vowels of a String.swift"; sourceTree = "<group>"; };
+		20D89B762141227B003EE3F0 /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				20D89B5F21411BC4003EE3F0 /* Array */,
 				20D89B6C21411F43003EE3F0 /* String */,
+				20D89B7521412246003EE3F0 /* Hash Table */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
@@ -148,6 +151,14 @@
 				20D89B73214120A7003EE3F0 /* 345. Reverse Vowels of a String.swift */,
 			);
 			path = String;
+			sourceTree = "<group>";
+		};
+		20D89B7521412246003EE3F0 /* Hash Table */ = {
+			isa = PBXGroup;
+			children = (
+				20D89B762141227B003EE3F0 /* 169. Majority Element.swift */,
+			);
+			path = "Hash Table";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,6 +272,7 @@
 				20D89B722141201E003EE3F0 /* 28. Implement strStr().swift in Sources */,
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */,
+				20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */,
 				20D89B6321411C4D003EE3F0 /* 16. 3Sum Closest.swift in Sources */,
 				20D89B74214120A7003EE3F0 /* 345. Reverse Vowels of a String.swift in Sources */,
 			);
