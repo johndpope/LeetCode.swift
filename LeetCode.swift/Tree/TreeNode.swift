@@ -18,3 +18,9 @@ public class TreeNode {
         self.right = nil
     }
 }
+
+struct LevelCommand {
+    var level: Int
+    var string: String
+    var node: TreeNode
+}

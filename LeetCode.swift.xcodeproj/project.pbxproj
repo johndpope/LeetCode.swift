@@ -35,6 +35,7 @@
 		20D89B8D21412912003EE3F0 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B8C21412912003EE3F0 /* TreeNode.swift */; };
 		20D89B8F21412973003EE3F0 /* 144. Binary Tree Preorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B8E21412973003EE3F0 /* 144. Binary Tree Preorder Traversal.swift */; };
 		20D89B91214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B90214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift */; };
+		20D89B9321412A55003EE3F0 /* 199. Binary Tree Right Side View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B9221412A55003EE3F0 /* 199. Binary Tree Right Side View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		20D89B8C21412912003EE3F0 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		20D89B8E21412973003EE3F0 /* 144. Binary Tree Preorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. Binary Tree Preorder Traversal.swift"; sourceTree = "<group>"; };
 		20D89B90214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "145. Binary Tree Postorder Traversal.swift"; sourceTree = "<group>"; };
+		20D89B9221412A55003EE3F0 /* 199. Binary Tree Right Side View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199. Binary Tree Right Side View.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +208,7 @@
 				20D89B8A214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift */,
 				20D89B8E21412973003EE3F0 /* 144. Binary Tree Preorder Traversal.swift */,
 				20D89B90214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift */,
+				20D89B9221412A55003EE3F0 /* 199. Binary Tree Right Side View.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				20D89B8D21412912003EE3F0 /* TreeNode.swift in Sources */,
 				20D89B88214127B8003EE3F0 /* 205. Isomorphic Strings.swift in Sources */,
+				20D89B9321412A55003EE3F0 /* 199. Binary Tree Right Side View.swift in Sources */,
 				20D89B772141227B003EE3F0 /* 169. Majority Element.swift in Sources */,
 				20D89B6321411C4D003EE3F0 /* 16. 3Sum Closest.swift in Sources */,
 				20D89B8F21412973003EE3F0 /* 144. Binary Tree Preorder Traversal.swift in Sources */,
