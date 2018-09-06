@@ -46,6 +46,7 @@
 		20D89BA821412FAB003EE3F0 /* 92. Reverse Linked List II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BA721412FAB003EE3F0 /* 92. Reverse Linked List II.swift */; };
 		20D89BAB214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */; };
 		20D89BAD2141320E003EE3F0 /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BAC2141320E003EE3F0 /* 111. Minimum Depth of Binary Tree.swift */; };
+		20D89BAF2141324D003EE3F0 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BAE2141324D003EE3F0 /* 100. Same Tree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,6 +103,7 @@
 		20D89BA721412FAB003EE3F0 /* 92. Reverse Linked List II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92. Reverse Linked List II.swift"; sourceTree = "<group>"; };
 		20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		20D89BAC2141320E003EE3F0 /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
+		20D89BAE2141324D003EE3F0 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,6 +265,7 @@
 			children = (
 				20D89BAA214131CE003EE3F0 /* 104. Maximum Depth of Binary Tree.swift */,
 				20D89BAC2141320E003EE3F0 /* 111. Minimum Depth of Binary Tree.swift */,
+				20D89BAE2141324D003EE3F0 /* 100. Same Tree.swift */,
 			);
 			path = Recursion;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				20D89B9521412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift in Sources */,
 				20D89B7B214123D0003EE3F0 /* 349. Intersection of Two Arrays.swift in Sources */,
 				20D89BA121412E82003EE3F0 /* 530. Minimum Absolute Difference in BST.swift in Sources */,
+				20D89BAF2141324D003EE3F0 /* 100. Same Tree.swift in Sources */,
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B8B214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
