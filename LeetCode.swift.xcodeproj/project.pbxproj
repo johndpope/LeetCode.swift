@@ -17,6 +17,7 @@
 		20171CEC2141628600B23D57 /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CEB2141628600B23D57 /* 27. Remove Element.swift */; };
 		20171CEE2141630900B23D57 /* 26. Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CED2141630900B23D57 /* 26. Remove Duplicates from Sorted Array.swift */; };
 		20171CF02141637C00B23D57 /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CEF2141637C00B23D57 /* 80. Remove Duplicates from Sorted Array II.swift */; };
+		20171CF32141659F00B23D57 /* 35. Search Insert Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171CF22141659F00B23D57 /* 35. Search Insert Position.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -82,6 +83,7 @@
 		20171CEB2141628600B23D57 /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		20171CED2141630900B23D57 /* 26. Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
 		20171CEF2141637C00B23D57 /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
+		20171CF22141659F00B23D57 /* 35. Search Insert Position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35. Search Insert Position.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -148,6 +150,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		20171CF12141656F00B23D57 /* Binary Search */ = {
+			isa = PBXGroup;
+			children = (
+				20171CF22141659F00B23D57 /* 35. Search Insert Position.swift */,
+			);
+			path = "Binary Search";
+			sourceTree = "<group>";
+		};
 		20D89B2621410AE8003EE3F0 = {
 			isa = PBXGroup;
 			children = (
@@ -174,6 +184,7 @@
 				20D89B7521412246003EE3F0 /* Hash Table */,
 				20D89B822141268B003EE3F0 /* Stack */,
 				20D89BA221412F0B003EE3F0 /* Linked List */,
+				20171CF12141656F00B23D57 /* Binary Search */,
 				20D89B8921412889003EE3F0 /* Tree */,
 				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
 				20D89BA9214130F6003EE3F0 /* Recursion */,
@@ -422,6 +433,7 @@
 				20D89BA621412F6A003EE3F0 /* ListNode.swift in Sources */,
 				20D89B722141201E003EE3F0 /* 28. Implement strStr().swift in Sources */,
 				20D89B9521412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift in Sources */,
+				20171CF32141659F00B23D57 /* 35. Search Insert Position.swift in Sources */,
 				20D89B7B214123D0003EE3F0 /* 349. Intersection of Two Arrays.swift in Sources */,
 				20D89BB3214132C0003EE3F0 /* 110. Balanced Binary Tree.swift in Sources */,
 				20D89BA121412E82003EE3F0 /* 530. Minimum Absolute Difference in BST.swift in Sources */,
