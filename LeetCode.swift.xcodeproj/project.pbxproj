@@ -77,11 +77,7 @@
 		20D89B3121410AE8003EE3F0 /* LeetCode.swift */ = {
 			isa = PBXGroup;
 			children = (
-				20D89B3221410AE8003EE3F0 /* AppDelegate.swift */,
-				20D89B3421410AE8003EE3F0 /* ViewController.swift */,
-				20D89B3621410AE8003EE3F0 /* Main.storyboard */,
-				20D89B3921410AEA003EE3F0 /* Assets.xcassets */,
-				20D89B3B21410AEA003EE3F0 /* LaunchScreen.storyboard */,
+				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
 			);
 			path = LeetCode.swift;
@@ -94,6 +90,18 @@
 				20D89B4921410AEA003EE3F0 /* Info.plist */,
 			);
 			path = LeetCode.swiftTests;
+			sourceTree = "<group>";
+		};
+		20D89B592141192A003EE3F0 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				20D89B3221410AE8003EE3F0 /* AppDelegate.swift */,
+				20D89B3421410AE8003EE3F0 /* ViewController.swift */,
+				20D89B3621410AE8003EE3F0 /* Main.storyboard */,
+				20D89B3921410AEA003EE3F0 /* Assets.xcassets */,
+				20D89B3B21410AEA003EE3F0 /* LaunchScreen.storyboard */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -361,6 +369,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8XQD6525B9;
 				INFOPLIST_FILE = LeetCode.swift/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -379,6 +388,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8XQD6525B9;
 				INFOPLIST_FILE = LeetCode.swift/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
