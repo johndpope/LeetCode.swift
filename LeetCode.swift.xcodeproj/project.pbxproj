@@ -73,6 +73,7 @@
 		20D89BAF2141324D003EE3F0 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BAE2141324D003EE3F0 /* 100. Same Tree.swift */; };
 		20D89BB12141327E003EE3F0 /* 101. Symmetric Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BB02141327E003EE3F0 /* 101. Symmetric Tree.swift */; };
 		20D89BB3214132C0003EE3F0 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BB2214132C0003EE3F0 /* 110. Balanced Binary Tree.swift */; };
+		20FC99642142188400DDAB16 /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -156,6 +157,7 @@
 		20D89BAE2141324D003EE3F0 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		20D89BB02141327E003EE3F0 /* 101. Symmetric Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "101. Symmetric Tree.swift"; sourceTree = "<group>"; };
 		20D89BB2214132C0003EE3F0 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
+		20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,14 +225,14 @@
 		20D89B3121410AE8003EE3F0 /* LeetCode.swift */ = {
 			isa = PBXGroup;
 			children = (
-				20171D0B21416E9500B23D57 /* Queue */,
-				20171CFA2141688700B23D57 /* Two Pointers */,
 				20D89B5F21411BC4003EE3F0 /* Array */,
+				20171CFA2141688700B23D57 /* Two Pointers */,
 				20D89B6C21411F43003EE3F0 /* String */,
 				20D89B7521412246003EE3F0 /* Hash Table */,
 				20D89B822141268B003EE3F0 /* Stack */,
-				20D89BA221412F0B003EE3F0 /* Linked List */,
+				20171D0B21416E9500B23D57 /* Queue */,
 				20171CF12141656F00B23D57 /* Binary Search */,
+				20D89BA221412F0B003EE3F0 /* Linked List */,
 				20D89B8921412889003EE3F0 /* Tree */,
 				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
 				20D89BA9214130F6003EE3F0 /* Recursion */,
@@ -274,6 +276,7 @@
 				20D89B6821411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift */,
 				20D89B6A21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift */,
 				20171CF8214167E600B23D57 /* 189. Rotate Array.swift */,
+				20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -497,6 +500,7 @@
 				20D89BB3214132C0003EE3F0 /* 110. Balanced Binary Tree.swift in Sources */,
 				20D89BA121412E82003EE3F0 /* 530. Minimum Absolute Difference in BST.swift in Sources */,
 				20171CEC2141628600B23D57 /* 27. Remove Element.swift in Sources */,
+				20FC99642142188400DDAB16 /* 238. Product of Array Except Self.swift in Sources */,
 				20D89BAF2141324D003EE3F0 /* 100. Same Tree.swift in Sources */,
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
