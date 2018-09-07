@@ -76,6 +76,7 @@
 		20FC99642142188400DDAB16 /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */; };
 		20FC99662142555600DDAB16 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC99652142555600DDAB16 /* 118. Pascal's Triangle.swift */; };
 		20FC9969214262C600DDAB16 /* 215. Kth Largest Element in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC9968214262C600DDAB16 /* 215. Kth Largest Element in an Array.swift */; };
+		20FC996B21426D0600DDAB16 /* 347. Top K Frequent Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC996A21426D0600DDAB16 /* 347. Top K Frequent Elements.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -162,6 +163,7 @@
 		20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		20FC99652142555600DDAB16 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		20FC9968214262C600DDAB16 /* 215. Kth Largest Element in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "215. Kth Largest Element in an Array.swift"; sourceTree = "<group>"; };
+		20FC996A21426D0600DDAB16 /* 347. Top K Frequent Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "347. Top K Frequent Elements.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -385,6 +387,7 @@
 			isa = PBXGroup;
 			children = (
 				20FC9968214262C600DDAB16 /* 215. Kth Largest Element in an Array.swift */,
+				20FC996A21426D0600DDAB16 /* 347. Top K Frequent Elements.swift */,
 			);
 			path = Sort;
 			sourceTree = "<group>";
@@ -498,6 +501,7 @@
 				20D89B6921411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				20D89B6B21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				20D89B6E21411F74003EE3F0 /* 14. Longest Common Prefix.swift in Sources */,
+				20FC996B21426D0600DDAB16 /* 347. Top K Frequent Elements.swift in Sources */,
 				20171D0D21416EC200B23D57 /* 279. Perfect Squares.swift in Sources */,
 				20D89B7D21412473003EE3F0 /* 290. Word Pattern.swift in Sources */,
 				20D89B91214129DE003EE3F0 /* 145. Binary Tree Postorder Traversal.swift in Sources */,
