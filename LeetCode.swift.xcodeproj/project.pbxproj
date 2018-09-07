@@ -74,6 +74,7 @@
 		20D89BB12141327E003EE3F0 /* 101. Symmetric Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BB02141327E003EE3F0 /* 101. Symmetric Tree.swift */; };
 		20D89BB3214132C0003EE3F0 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89BB2214132C0003EE3F0 /* 110. Balanced Binary Tree.swift */; };
 		20FC99642142188400DDAB16 /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */; };
+		20FC99662142555600DDAB16 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC99652142555600DDAB16 /* 118. Pascal's Triangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -158,6 +159,7 @@
 		20D89BB02141327E003EE3F0 /* 101. Symmetric Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "101. Symmetric Tree.swift"; sourceTree = "<group>"; };
 		20D89BB2214132C0003EE3F0 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
 		20FC99632142188400DDAB16 /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = "<group>"; };
+		20FC99652142555600DDAB16 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +192,7 @@
 		20171CFA2141688700B23D57 /* Two Pointers */ = {
 			isa = PBXGroup;
 			children = (
+				20FC99652142555600DDAB16 /* 118. Pascal's Triangle.swift */,
 				20171CFB214168B400B23D57 /* 209. Minimum Size Subarray Sum.swift */,
 			);
 			path = "Two Pointers";
@@ -511,6 +514,7 @@
 				20171CDE21415F8300B23D57 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				20171D0821416C6600B23D57 /* 242. Valid Anagram.swift in Sources */,
 				20D89BB12141327E003EE3F0 /* 101. Symmetric Tree.swift in Sources */,
+				20FC99662142555600DDAB16 /* 118. Pascal's Triangle.swift in Sources */,
 				20D89B7021411FC7003EE3F0 /* 20. Valid Parentheses.swift in Sources */,
 				20D89B8621412744003EE3F0 /* 204. Count Primes.swift in Sources */,
 				20D89B84214126BA003EE3F0 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
