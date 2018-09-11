@@ -34,6 +34,7 @@
 		20B9B9972147658C00995CBD /* 343. Integer Break.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B9962147658C00995CBD /* 343. Integer Break.swift */; };
 		20B9B999214786F700995CBD /* 198. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B998214786F700995CBD /* 198. House Robber.swift */; };
 		20B9B99C214799D100995CBD /* 240. Search a 2D Matrix II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B99B214799D100995CBD /* 240. Search a 2D Matrix II.swift */; };
+		20B9B99F2147A69900995CBD /* 378. Kth Smallest Element in a Sorted Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B99E2147A69900995CBD /* 378. Kth Smallest Element in a Sorted Matrix.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -125,6 +126,7 @@
 		20B9B9962147658C00995CBD /* 343. Integer Break.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "343. Integer Break.swift"; sourceTree = "<group>"; };
 		20B9B998214786F700995CBD /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
 		20B9B99B214799D100995CBD /* 240. Search a 2D Matrix II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "240. Search a 2D Matrix II.swift"; sourceTree = "<group>"; };
+		20B9B99E2147A69900995CBD /* 378. Kth Smallest Element in a Sorted Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "378. Kth Smallest Element in a Sorted Matrix.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -238,6 +240,14 @@
 			path = "Divide and Conquer";
 			sourceTree = "<group>";
 		};
+		20B9B99D2147A65A00995CBD /* Heap */ = {
+			isa = PBXGroup;
+			children = (
+				20B9B99E2147A69900995CBD /* 378. Kth Smallest Element in a Sorted Matrix.swift */,
+			);
+			path = Heap;
+			sourceTree = "<group>";
+		};
 		20D89B2621410AE8003EE3F0 = {
 			isa = PBXGroup;
 			children = (
@@ -268,6 +278,7 @@
 				20FC99672142629400DDAB16 /* Sort */,
 				20171CF12141656F00B23D57 /* Binary Search */,
 				20D89BA221412F0B003EE3F0 /* Linked List */,
+				20B9B99D2147A65A00995CBD /* Heap */,
 				20D89B8921412889003EE3F0 /* Tree */,
 				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
 				20D89BA9214130F6003EE3F0 /* Recursion */,
@@ -566,6 +577,7 @@
 				20FC99642142188400DDAB16 /* 238. Product of Array Except Self.swift in Sources */,
 				20D89BAF2141324D003EE3F0 /* 100. Same Tree.swift in Sources */,
 				20FC997821464D3200DDAB16 /* 63. Unique Paths II.swift in Sources */,
+				20B9B99F2147A69900995CBD /* 378. Kth Smallest Element in a Sorted Matrix.swift in Sources */,
 				20D89B6121411BDC003EE3F0 /* 15. 3Sum.swift in Sources */,
 				20D89B81214125D6003EE3F0 /* 451. Sort Characters By Frequency.swift in Sources */,
 				20D89B8B214128BA003EE3F0 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
