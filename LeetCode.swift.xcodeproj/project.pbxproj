@@ -33,6 +33,7 @@
 		20171D0F21416F0400B23D57 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0E21416F0400B23D57 /* Queue.swift */; };
 		20B9B9972147658C00995CBD /* 343. Integer Break.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B9962147658C00995CBD /* 343. Integer Break.swift */; };
 		20B9B999214786F700995CBD /* 198. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B998214786F700995CBD /* 198. House Robber.swift */; };
+		20B9B99C214799D100995CBD /* 240. Search a 2D Matrix II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B99B214799D100995CBD /* 240. Search a 2D Matrix II.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -123,6 +124,7 @@
 		20171D0E21416F0400B23D57 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		20B9B9962147658C00995CBD /* 343. Integer Break.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "343. Integer Break.swift"; sourceTree = "<group>"; };
 		20B9B998214786F700995CBD /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
+		20B9B99B214799D100995CBD /* 240. Search a 2D Matrix II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "240. Search a 2D Matrix II.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -228,6 +230,14 @@
 			path = Queue;
 			sourceTree = "<group>";
 		};
+		20B9B99A214799A400995CBD /* Divide and Conquer */ = {
+			isa = PBXGroup;
+			children = (
+				20B9B99B214799D100995CBD /* 240. Search a 2D Matrix II.swift */,
+			);
+			path = "Divide and Conquer";
+			sourceTree = "<group>";
+		};
 		20D89B2621410AE8003EE3F0 = {
 			isa = PBXGroup;
 			children = (
@@ -261,6 +271,7 @@
 				20D89B8921412889003EE3F0 /* Tree */,
 				20D89B9B21412CFB003EE3F0 /* Binary Search Tree */,
 				20D89BA9214130F6003EE3F0 /* Recursion */,
+				20B9B99A214799A400995CBD /* Divide and Conquer */,
 				20FC996C21460AA200DDAB16 /* Dynamic Programming */,
 				20D89B592141192A003EE3F0 /* New Group */,
 				20D89B3E21410AEA003EE3F0 /* Info.plist */,
@@ -528,6 +539,7 @@
 				20171CF72141673E00B23D57 /* 125. Valid Palindrome.swift in Sources */,
 				20D89B7F2141255C003EE3F0 /* 438. Find All Anagrams in a String.swift in Sources */,
 				20D89B6921411D73003EE3F0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
+				20B9B99C214799D100995CBD /* 240. Search a 2D Matrix II.swift in Sources */,
 				20FC9976214646C200DDAB16 /* 62. Unique Paths.swift in Sources */,
 				20D89B6B21411E39003EE3F0 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				20D89B6E21411F74003EE3F0 /* 14. Longest Common Prefix.swift in Sources */,
