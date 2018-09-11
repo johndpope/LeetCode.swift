@@ -32,6 +32,7 @@
 		20171D0D21416EC200B23D57 /* 279. Perfect Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0C21416EC200B23D57 /* 279. Perfect Squares.swift */; };
 		20171D0F21416F0400B23D57 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20171D0E21416F0400B23D57 /* Queue.swift */; };
 		20B9B9972147658C00995CBD /* 343. Integer Break.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B9962147658C00995CBD /* 343. Integer Break.swift */; };
+		20B9B999214786F700995CBD /* 198. House Robber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B9B998214786F700995CBD /* 198. House Robber.swift */; };
 		20D89B3321410AE8003EE3F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3221410AE8003EE3F0 /* AppDelegate.swift */; };
 		20D89B3521410AE8003EE3F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D89B3421410AE8003EE3F0 /* ViewController.swift */; };
 		20D89B3821410AE8003EE3F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20D89B3621410AE8003EE3F0 /* Main.storyboard */; };
@@ -121,6 +122,7 @@
 		20171D0C21416EC200B23D57 /* 279. Perfect Squares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "279. Perfect Squares.swift"; sourceTree = "<group>"; };
 		20171D0E21416F0400B23D57 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		20B9B9962147658C00995CBD /* 343. Integer Break.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "343. Integer Break.swift"; sourceTree = "<group>"; };
+		20B9B998214786F700995CBD /* 198. House Robber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "198. House Robber.swift"; sourceTree = "<group>"; };
 		20D89B2F21410AE8003EE3F0 /* LeetCode.swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20D89B3221410AE8003EE3F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20D89B3421410AE8003EE3F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -413,6 +415,7 @@
 				20FC997121461BE300DDAB16 /* 64. Minimum Path Sum.swift */,
 				20FC996D21460AC200DDAB16 /* 70. Climbing Stairs.swift */,
 				20FC996F2146104000DDAB16 /* 120. Triangle.swift */,
+				20B9B998214786F700995CBD /* 198. House Robber.swift */,
 				20B9B9962147658C00995CBD /* 343. Integer Break.swift */,
 			);
 			path = "Dynamic Programming";
@@ -538,6 +541,7 @@
 				20D89B6721411D1F003EE3F0 /* 88. Merge Sorted Array.swift in Sources */,
 				20D89B9721412BDA003EE3F0 /* 107. Binary Tree Level Order Traversal II.swift in Sources */,
 				20D89BA621412F6A003EE3F0 /* ListNode.swift in Sources */,
+				20B9B999214786F700995CBD /* 198. House Robber.swift in Sources */,
 				20D89B722141201E003EE3F0 /* 28. Implement strStr().swift in Sources */,
 				20171D0421416B3E00B23D57 /* 350. Intersection of Two Arrays II.swift in Sources */,
 				20D89B9521412B39003EE3F0 /* 102. Binary Tree Level Order Traversal.swift in Sources */,
